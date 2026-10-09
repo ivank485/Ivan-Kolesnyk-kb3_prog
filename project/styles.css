@@ -1,0 +1,26 @@
+#nazev {
+    color: #f5e6cc;
+    background-color: #493323;
+    font-size: 40px;
+    text-align: center;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+}
+
+#odkazy {
+    text-align: center;
+    background-color: #493323;
+    padding: 15px;
+}
+
+.odkazy a{
+    color: #f5e6cc;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 18px;
+}
+
+.odkazy a:hover {
+    color: #c49a6c;
+}
+
