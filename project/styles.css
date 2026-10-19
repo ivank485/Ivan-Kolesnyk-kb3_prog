@@ -16,13 +16,63 @@
 
 
 #uvodnifotka  {
-    width: 100%;
+    width: 55%;
     height: 400px;
     object-fit: cover;
     border-radius: 10px;
 }
 
+#uvodnitext {
+width: 45%;
+}
 
+.podtitulek {
+color: #58734b;
+    letter-spacing: 3px;
+    font-size: 13px;
+}
+
+#uvodnitext h2{
+    color: #493323;
+    font-size: 42px;
+}
+
+#uvodnitext p{
+    color: #493323;
+    line-height: 1.7;
+}
+
+#tlacitko {
+    
+         display: inline-block;
+    background-color: #355e3b;
+    color: white;
+    text-decoration: none;
+    padding: 12px 18px;
+    margin: 8px 5px 0 0;
+    border-bottom-right-radius: 5px;
+    font-family: Arial, sans-serif;
+    }
+
+#tlacitko:hover {
+        background-color: #26452b;
+    }
+
+    #tlacitkodruhe  a{
+        display: inline-block;
+    background-color: #355e3b;
+    color: white;
+    text-decoration: none;
+    padding: 13px 28px;
+    margin: 8px 5px 0 0;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    }
+
+    .tlacitkodruhe:hover {
+    background-color: #355e3b;
+    color: white;
+}
 
 
 #odkazy {
@@ -42,20 +92,9 @@
     color: #c49a6c;
 }
 
-#tlacitko {
+
     
-        display: inline-block;
-        background-color: #355e3b;
-        color: white;
-        text-decoration: none;
-        padding: 12px 25px;
-        margin-top: 15px;
-        border-radius: 5px;
-    }
     
-    #tlacitko:hover {
-        background-color: #26452b;
-    }
 
     #hlavnifotka {
         width:250px; 
