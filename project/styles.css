@@ -7,7 +7,11 @@
     font-family: Arial, sans-serif;
     margin: 0%;
 }
+
+
+
 #uvod {
+    
     display: flex;
     align-items: center;
     gap: 40px;
@@ -63,5 +67,17 @@ color: #58734b;
 
 .odkazy:hover {
     background-color: #102c15;
-} 
+}
 
+#kontakt {
+    background-color: #493323;
+    padding: 55px 25px;
+    color: #f5e6cc;
+   margin: 0 auto;
+}
+#kontaktnadpis {
+    text-align: center;
+    margin-bottom: 30px;
+ 
+}
+ 
